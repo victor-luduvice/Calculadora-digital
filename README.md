@@ -7,8 +7,6 @@
   <a href="https://github.com/victor-luduvice/Calculadora-digital/issues">
     <img src="https://img.shields.io/github/issues/victor-luduvice/Calculadora-digital" alt="Issues">
   </a>
-  <a href="https://github.com/victor-luduvice/Calculadora-digital/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/victor-luduvice/Calculadora-digital" alt="Licença">
   </a>
 </p>
 
